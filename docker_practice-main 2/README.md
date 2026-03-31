@@ -1,6 +1,6 @@
 ## Student
 
-* Name: Махун Владислав
+* Name: Павленко Іван
 * Group: 232.1
 
 ## Практичне заняття №2 — NestJS + PostgreSQL + Redis
